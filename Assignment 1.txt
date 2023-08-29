@@ -1,0 +1,49 @@
+1. In the given list of elements 
+
+* - expression 
+'hello'-string
+-87.8 - integer
+"-" - expression
+/ - expression
+
++ - expression
+
+6 - integer
+
+
+2. String is a set of alphabates and that is written in single opr double 
+   quotations.
+
+   Where as variables are numberical values and the values are to stored in 
+   the string.
+
+
+3.Three data types
+
+  Interger - Int - numerical values both +ve and -ve 
+  Boolean - 0's and 1's 
+  String  - alphabets
+  Float - 1.2 etc
+
+4. expressions are mathematical symbols which are used to solve mathemetical problems
+   say for example 3+4 =7 here + is a expression.
+
+5.Expressions can be assigned or used as operands, while statements can only be declared.
+
+6. After running the code first 
+   bacon is a variable and that variable is assigned by the value 22
+   after adding +1 to bacon it becomes 23
+   bacon +1 = 23
+
+7. it returns with the exit code 0 
+
+8. eggs is a variable name and variable name should start with string but 
+   not interger.
+
+9.The int(), float(), and str() functions will evaluate to the integer, floating-point number, and 
+string versions of the value passed to them.
+
+10. Here in the given expression we are trying to conactenate string with the integer value 
+    but python can concatenate string with string not integer.
+
+
